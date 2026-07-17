@@ -1,43 +1,36 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=250&section=header&text=Ashish%20Patel&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🤖+AI+Engineer;🚀+Agentic+AI+Developer;💻+Full+Stack+Developer;🧠+AI+SaaS+Builder;🌎+Building+Future+Technologies"/>
-
-</div>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ashishpatel3630-art&style=for-the-badge&color=00F7FF"/>
-
-<img src="https://img.shields.io/github/followers/ashishpatel3630-art?style=for-the-badge&logo=github"/>
-
-</p>
-
-
-
 # 🤖 AI Engineer | Agentic AI Developer | Full Stack Developer
 
 
 <div align="center">
 
-### Building Intelligent Systems Combining
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0066FF,100:7B2FFF&height=220&section=header&text=Ashish%20Patel&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+🤖;Agentic+AI+Developer;Full+Stack+Developer;AI+SaaS+Builder;Building+Future+Intelligent+Systems"/>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+## 🚀 Building Intelligent Systems Combining
+
 
 ```
-Artificial Intelligence
-          +
-Software Engineering
-          +
-Product Design
-          +
-Cloud Infrastructure
+              Artificial Intelligence
+                       +
+              Software Engineering
+                       +
+                 Product Design
+                       +
+              Cloud Infrastructure
 ```
+
 
 </div>
 
@@ -80,7 +73,7 @@ specialization:
     - AI Agents
     - Multi Agent Systems
     - AI Automation
-    - Model Context Protocol
+    - Model Context Protocol (MCP)
 
 
 
@@ -90,6 +83,7 @@ specialization:
     - Backend Architecture
     - API Engineering
     - Cloud Applications
+    - Scalable Systems
 
 
 
@@ -100,6 +94,7 @@ currently_building:
   - Autonomous AI Agents
   - RAG Applications
   - Intelligent Web Platforms
+  - AI Automation Systems
 
 
 
@@ -113,25 +108,30 @@ learning:
     - CrewAI
     - LLM Infrastructure
     - AI Evaluation
+    - AI Safety
 
 
 
 engineering_interests:
+
 
   - Generative AI
   - Machine Learning
   - Backend Engineering
   - Cloud Computing
   - Product Design
+  - Developer Experience
 
 
 
 future_goal:
 
+
   "Building AI products that impact millions 🚀"
 
 
 ```
+
 
 
 ---
@@ -141,31 +141,35 @@ future_goal:
 
 ```bash
 
-$ whoami
+╭──────────────────────────────────╮
+│        AI ENGINEER SYSTEM        │
+├──────────────────────────────────┤
+│                                  │
+│ $ whoami                         │
+│                                  │
+│ Ashish Patel                     │
+│                                  │
+│ $ role                           │
+│                                  │
+│ AI Engineer + Agentic Developer  │
+│                                  │
+│ $ building                       │
+│                                  │
+│ Autonomous AI Agents             │
+│                                  │
+│ $ stack                          │
+│                                  │
+│ Python + LLM + React + FastAPI   │
+│                                  │
+│ $ mission                        │
+│                                  │
+│ Build Intelligent Future 🚀      │
+│                                  │
+╰──────────────────────────────────╯
 
-Ashish Patel
-
-
-$ role
-
-AI Engineer + Agentic AI Developer
-
-
-$ currently_building
-
-Autonomous AI Agents
-
-
-$ favorite_stack
-
-Python + LLM + React + FastAPI
-
-
-$ mission
-
-Build intelligent future systems 🚀
 
 ```
+
 
 
 ---
@@ -191,28 +195,31 @@ Build intelligent future systems 🚀
 </p>
 
 
+---
 
 ## 🌐 Full Stack Development
 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
 
 </p>
 
 
+---
 
 ## ⚙️ Backend & Database
 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,postgres,docker,aws"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,postgres,docker,aws"/>
 
 </p>
 
 
+---
 
 ## 🎨 Design
 
@@ -224,8 +231,8 @@ Build intelligent future systems 🚀
 </p>
 
 
----
 
+---
 
 # 🚀 Featured AI Projects
 
@@ -242,8 +249,6 @@ Build intelligent future systems 🚀
 
 AI Assistant Platform
 
-
-Features:
 
 ```
 ✓ RAG Knowledge Engine
@@ -272,8 +277,6 @@ Features:
 
 AI Rural Coordination Platform
 
-
-Features:
 
 ```
 ✓ Smart Resource Matching
@@ -324,7 +327,7 @@ Generative Learning System
 ## 🌐 AI SaaS Builder
 
 
-Future Projects
+Future AI Products
 
 
 ```
@@ -339,6 +342,7 @@ Future Projects
 
 </td>
 
+
 </tr>
 
 
@@ -352,6 +356,7 @@ Future Projects
 
 
 ```
+
                  Python
                     |
                     ↓
@@ -375,16 +380,17 @@ Future Projects
                     ↓
              AI SaaS 🚀
 
+
 ```
+
 
 
 ---
 
-
 # 📊 GitHub Analytics
 
 
-<p align="center">
+<div align="center">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashishpatel3630-art&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -393,7 +399,34 @@ Future Projects
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpatel3630-art&theme=tokyonight&hide_border=true"/>
 
 
-</p>
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel3630-art&theme=tokyo-night&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+# 🏆 GitHub Achievements
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishpatel3630-art&theme=tokyonight&no-frame=true&row=1"/>
+
+
+</div>
 
 
 
@@ -402,43 +435,16 @@ Future Projects
 # 🏆 Current Mission
 
 
-<table>
-
-<tr>
-
-<td>
-
+```
 🤖 Master Agentic AI
-
-</td>
-
-<td>
 
 🚀 Build AI SaaS Products
 
-</td>
-
-</tr>
-
-
-<tr>
-
-<td>
-
 🧠 Advanced LLM Systems
-
-</td>
-
-<td>
 
 🌎 Solve Real Problems
 
-</td>
-
-</tr>
-
-
-</table>
+```
 
 
 
@@ -447,20 +453,29 @@ Future Projects
 # 🐍 Contribution Activity
 
 
-<p align="center">
+<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/ashishpatel3630-art/ashishpatel3630-art/output/github-contribution-grid-snake.svg"/>
 
-</p>
+
+</div>
+
 
 
 ---
 
-
 # 📡 Connect With Me
 
 
-<p align="center">
+<div align="center">
+
+
+<a href="mailto:ashishpatel3630@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
+</a>
 
 
 <a href="https://github.com/ashishpatel3630-art">
@@ -477,14 +492,16 @@ Future Projects
 </a>
 
 
-</p>
+</div>
 
 
+
+---
 
 <div align="center">
 
 
-## 🚀 "Building Intelligent Systems For The Future"
+# 🚀 Building Intelligent Systems For The Future
 
 
 ### Code • Create • Innovate • Impact
